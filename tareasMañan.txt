@@ -1,0 +1,54 @@
+http://mundogeek.net/archivos/2011/08/16/buenas-practicas-con-jquery/
+
+http://danielrozo.es/web/jquery/crimenes-en-jquery
+
+
+
+
+
+
+
+Ejercicios CSS3
+28/julio Pareja
+http://www.arkaitzgarro.com/css3/capitulo-13.html
+
+25/julio Individual
+http://rua.ua.es/dspace/bitstream/10045/20201/20/CSS%20Exercise.pdf
+
+
+Ejercicios Animaciones Jquery
+29/julio Individual
+
+https://www.codecademy.com/es/courses/web-beginner-en-SHrTR/0/1
+
+
+25/julio
+
+1. Crear un documento HTML con un encabezado, dos párrafos y un botón. Al pulsar el botón mediante el selector $(*) se debe ocultar todo. Método hide()
+
+2. En el mismo documento HTML anterior. Al pulsar el botÃ³n debe ocultarse dicho botÃ³n.
+
+3. En el mismo documento HTML anterior. Suponemos que el encabezado y el primer pÃ¡rrafo tienen el atributo class=â€introâ€.DeberÃ¡s ocultar al clickar el botÃ³n, dicho pÃ¡rrafo.
+
+4. Realiza el mismo cÃ³digo que en el script 3 pero ahora selecciona dicho pÃ¡rrafo mediante otro selector. p:first
+
+5. Selecciona el primer elemento de la primera lista y oculta dicho elemento.
+
+	Lista 1:
+â—	Tortilla
+â—	JamÃ³n
+â—	Queso
+Lista 2:
+â– 	Coca Cola
+â– 	Leche
+â– 	TÃ©
+
+6. Oculta los primeros elementos de la lista del script 5.
+
+7. Crea un documento con un par de enlaces mediante el atributo href y oculta ambos enlaces. 
+
+8. Crea un documento con dos enlaces y dos botones. Uno se tiene que abrir en una nueva ventana (target="_blank") y el otro no. Cada botÃ³n debe ocultar uno de los enlaces en funciÃ³n de su atributo target.
+
+9. Crea un documento con un botÃ³n que se oculte el botÃ³n  al clickarlo.
+
+10. Crear un documento con una tabla. Poner el fondo de las filas pares en rojo (usar el mÃ©todo .css("background-color","red"). A continuaciÃ³n poner el fondo de las filas impares en verde ..css("background-color","green")
