@@ -10,3 +10,10 @@ function escboton(){
 function ocultar3(){
 	$("#intro").hide();
 }
+function ocultarfirst(){
+	$("p").first().hide();
+}
+function ocultar5(){
+	var n=$("li").first();
+	n.hide();
+}
